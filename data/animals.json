@@ -129,6 +129,42 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "ihjj",
+      "species": "uhkj",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "ihjj",
+      "species": "uhkj",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "ihjj",
+      "species": "uhkj",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "ihjj",
+      "species": "uhkj",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "16"
     }
   ]
 }
